@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <header class="header">
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="certificates">certificates</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    
+    <section id="home" class="hero">
+        <h1>Welcome to My Portfolio</h1>
+        <p>I am Interested towards Designing an webite &#128519</p>
+    </section>
+
+    
+    <section id="about">
+        <div class="profile">
+            <img src="C:\Users\nihar\Downloads\w1.jpeg" alt="Profile Picture">
+            <p>Hi, I'm Udatha Niharika, Currently pursuing B.tech III year in PBR Visvodaya Institute of Technology and Science with a 9+ CGPA. I specialize in problem solving Techniques, And doing small projects..
+                I'm constantly learning and growing . My goal is to become a proficient full-stack developer and contribute innovative solutions to complex challenges.
+                </p>
+        </div>
+        </section>
+        <section id="certifications">
+            <div class="profile">
+           <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.25.41.jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.25.41 (1).jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.25.42.jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.25.43.jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.25.43 (1).jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.25.43 (2).jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.25.44.jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.25.44 (1).jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.25.44 (2).jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.25.45.jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.25.46.jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.25.46 (1).jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.30.14.jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.30.15.jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.30.16.jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.30.16 (1).jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.30.16 (2).jpeg"width="400px" height="300px">
+            <img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.30.17.jpeg"width="400px" height="300px"><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="C:\Users\nihar\Downloads\WhatsApp Image 2025-01-24 at 21.25.47.jpeg"width="600px" height="400px">
+            </div>
+            </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email:niharikaudatha8@gmail.com</p>
+    </section>
+
+    
+    <footer>
+        <p></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
